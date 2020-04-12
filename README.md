@@ -1,3 +1,3 @@
-<div style="display: flex; height: 70vh">
-<img src="images/jv-studios-white.jpeg" style="align-self: center" />
+<div style="display: flex; align-items: center; justify-content: center">
+<img src="images/jv-studios-white.jpeg" style="align-self: center;max-height: 75vh;" />
 </div>
